@@ -27,7 +27,7 @@ headers = {
 session = Session()
 session.headers.update(headers)
 
-# refreshes every 2,5 min
+# refreshes every 2.5 min
 refreshrate = 150
 symbol_length = 5
 price_length = 9
